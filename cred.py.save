@@ -1,0 +1,13 @@
+#Twilio Details
+
+account_sid = 'ACe2ef863caa6db19ee37745891e2c3465'
+auth_token = 'a6f4af66aaf9c98f60ed55769e8c3366'
+twilionumber = '+19106598872'
+twiliosmsnumber = '+19106598872'
+https://7eaf7d401d21-1604820836453984032.ngrok-free.app/
+#FC Bot
+API_TOKEN = "6030321994:AAEXahowm2jcwTTO8b-5jS4hSmmWdx1a8rs"
+
+#Host URL
+callurl = 'https://2b1d-20-243-128-228.ngrok-free.app/'
+twiliosmsurl = '/sms'
